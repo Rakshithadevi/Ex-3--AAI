@@ -1,5 +1,5 @@
 <H3>Rakshitha Devi J</H3>
-<H3><212221230082</H3>
+<H3>212221230082</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
